@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @ajibola1989
+- 👀 I’m interested in Data Analysis and Machine Learning
+- 🌱 I’m currently learning Phyton, SQL, Tableau, Google Data Studio
+- 💞️ I’m looking to collaborate on linkedin.com/in/ajibola-abimbola-9b3877b0
